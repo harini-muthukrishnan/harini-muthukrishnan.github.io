@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>harinimuthukrishnan.net/</loc>
     <lastmod>2024-02-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>harinimuthukrishnan.net/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>harinimuthukrishnan.net/post/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
+    <loc>harinimuthukrishnan.net/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>harinimuthukrishnan.net/publication/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>harinimuthukrishnan.net/event/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>harinimuthukrishnan.net/tags/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
