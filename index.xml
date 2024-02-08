@@ -2,15 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Harini Muthukrishnan</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>harinimuthukrishnan.net/</link>
+      <atom:link href="harinimuthukrishnan.net/index.xml" rel="self" type="application/rss+xml" />
     <description>Harini Muthukrishnan</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_huc9edabd74ff740ed59056be981de725a_198120_512x512_fill_lanczos_center_3.png</url>
+      <url>/harinimuthukrishnan.net/media/icon_huc9edabd74ff740ed59056be981de725a_198120_512x512_fill_lanczos_center_3.png</url>
       <title>Harini Muthukrishnan</title>
-      <link>https://example.com/</link>
+      <link>harinimuthukrishnan.net/</link>
     </image>
+    
+    <item>
+      <title>FinePack: Transparently Improving the Efficiency of Fine-Grained Transfers in Multi-GPU Systems</title>
+      <link>harinimuthukrishnan.net/publication/finepack/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>harinimuthukrishnan.net/publication/finepack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS: A Global Publish-subscribe Model for Multi-GPU Memory Management</title>
+      <link>harinimuthukrishnan.net/publication/gps/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>harinimuthukrishnan.net/publication/gps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Multi-GPU Shared Memory Via Automatic Optimization of Fine-grained Transfers</title>
+      <link>harinimuthukrishnan.net/publication/proact/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>harinimuthukrishnan.net/publication/proact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
