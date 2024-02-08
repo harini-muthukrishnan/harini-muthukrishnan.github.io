@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Harini Muthukrishnan</title>
-    <link>harinimuthukrishnan.net/publication/</link>
-      <atom:link href="harinimuthukrishnan.net/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>paper-conference | Harini Muthukrishnan</title>
+    <link>harinimuthukrishnan.net/publication-type/paper-conference/</link>
+      <atom:link href="harinimuthukrishnan.net/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>paper-conference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/harinimuthukrishnan.net/media/icon_huc9edabd74ff740ed59056be981de725a_198120_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>harinimuthukrishnan.net/publication/</link>
+      <title>paper-conference</title>
+      <link>harinimuthukrishnan.net/publication-type/paper-conference/</link>
     </image>
     
     <item>
